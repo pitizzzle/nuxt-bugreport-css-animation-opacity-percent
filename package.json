@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start-dev": "nuxt dev",
+    "start-prod": "nuxt generate && nuxt start"
+  },
+  "dependencies": {
+    "core-js": "^3.9.1",
+    "nuxt": "2.15.4"
+  },
+  "devDependencies": {}
+}
